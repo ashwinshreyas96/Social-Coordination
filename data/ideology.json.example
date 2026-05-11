@@ -1,0 +1,16 @@
+{
+  "alice": {
+    "far-right": [],
+    "center-right": [],
+    "neutral": [],
+    "center-left": [],
+    "far-left": []
+  },
+  "jack": {
+    "far-right": [],
+    "center-right": [],
+    "neutral": [],
+    "center-left": [],
+    "far-left": []
+  }
+}
